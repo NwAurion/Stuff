@@ -1,0 +1,5 @@
+D:\Workspaces\Visual Studio\RenameTool\RenameTool\bin\Debug\RenameTool.exe
+D:\Workspaces\Visual Studio\RenameTool\RenameTool\bin\Debug\RenameTool.pdb
+D:\Workspaces\Visual Studio\RenameTool\RenameTool\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Workspaces\Visual Studio\RenameTool\RenameTool\obj\x86\Debug\RenameTool.exe
+D:\Workspaces\Visual Studio\RenameTool\RenameTool\obj\x86\Debug\RenameTool.pdb
